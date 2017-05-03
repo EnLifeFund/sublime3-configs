@@ -1,0 +1,636 @@
+{
+	"folder_history":
+	[
+		"/Users/raliclo/work/gnu/gnu_mirror/c2c",
+		"/Users/raliclo/work/gnu/gnu_mirror",
+		"/Library/Preferences/SystemConfiguration",
+		"/usr/local/Cellar/gnu-sed/4.4/libexec/gnuman/man1",
+		"/Users/raliclo/work/j2objc/brew_dist/j2objc-dist/license",
+		"/Users/raliclo/work/j2objc/brew_dist/j2objc-dist/LICENSE",
+		"/Users/raliclo",
+		"/Users/raliclo/work/Parallel-IR/build",
+		"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula",
+		"/Users/raliclo/tt/ook",
+		"/Users/raliclo/Downloads/Andy/CppSharp",
+		"/Users/raliclo/work/Parallel-IR",
+		"/Users/raliclo/WebstormProjects/untitled/test",
+		"/Users/raliclo/WebstormProjects/untitled/dist",
+		"/Users/raliclo/tt/llks",
+		"/Users/raliclo/work/apks/NinjaDroid",
+		"/Users/raliclo/work/apks/MoE_App"
+	],
+	"last_version": 3126,
+	"last_window_id": 188,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 559.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 247.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 503.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/raliclo/work/gnu/gnu_mirror/c2c/package.json",
+				"/Users/raliclo/work/gnu/gnu_mirror/c2c/public/vidoe.html",
+				"/Users/raliclo/work/Parallel-IR/CMakeLists.txt",
+				"/Users/raliclo/work/gnu/gnu_mirror/mirror_gnu",
+				"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/j2objc.rb",
+				"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/.bash_profile",
+				"/Users/raliclo/work/gnu/gnu_mirror/restricted_projects",
+				"/Users/raliclo/.bash_profile",
+				"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/zzz.rb",
+				"/Users/raliclo/work/gnu/gnu_mirror/projects",
+				"/Library/Preferences/SystemConfiguration/com.apple.Boot.plist",
+				"/Users/raliclo/g/LICENSE.txt",
+				"/Users/raliclo/gradle.rb",
+				"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gradle.rb",
+				"/Users/raliclo/work/gradle/gradle/java9.gradle",
+				"/Users/raliclo/work/gradle/Users/raliclo/work/gradle/gradle/java9.gradle",
+				"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/binutils.rb",
+				"/Users/raliclo/work/gradle/gradle/wrapper/gradle-wrapper.properties",
+				"/Users/raliclo/work/gradle/buildSrc/build.gradle",
+				"/usr/local/bin/gradle",
+				"/Users/raliclo/hacker/Hacker_capture_the_flag/Hacker_capture_the_flag/indeed/transall",
+				"/Users/raliclo/hacker/Hacker_capture_the_flag/Hacker_capture_the_flag/indeed/sum.app",
+				"/Users/raliclo/contest/tdocs/tdocs.js",
+				"/Users/raliclo/tt/llks/bakup/transall",
+				"/Users/raliclo/contest/tdocs/tdoc.js",
+				"/Users/raliclo/.bash_profile_lion",
+				"/Users/raliclo/work/gcc-7-branch/build/config.gccmake",
+				"/Users/raliclo/j2objc",
+				"/Users/raliclo/work/j2objc/brew_dist/j2objc-dist/license/INSTALL",
+				"/Users/raliclo/work/gcc-7-branch/build/.bash_profile",
+				"/Users/.bash_profile",
+				"/Users/raliclo/work/Parallel-IR/build/config.parIR",
+				"/Users/raliclo/work/gcc-7-branch/build/config.make2",
+				"/Users/raliclo/work/gcc-7-branch/config.make2",
+				"/Users/raliclo/tt/ook/overall.log_2017-03-26-04hr-47min",
+				"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gcc@7.rb",
+				"/Users/raliclo/work/gcc-7-branch/build/config.make",
+				"/Users/raliclo/work/gcc-7-branch/build/config",
+				"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gcc.rb",
+				"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gcc@6.rb",
+				"/Users/raliclo/work/Parallel-IR/.travis.yml",
+				"/Users/raliclo/work/Parallel-IR/build/CMakeCache.txt",
+				"/Users/raliclo/.bashrc",
+				"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/Formula/j2objc.rb",
+				"/Users/raliclo/j2objc.rb",
+				"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/j2objc",
+				"/Users/raliclo/j2objc.zip",
+				"/Users/raliclo/quick/uberget/datass.final",
+				"/Users/raliclo/quick/uberget/ans3.sorted",
+				"/Users/raliclo/quick/uberget/datass",
+				"/Users/raliclo/quick/uberget/data",
+				"/Users/raliclo/quick/uberget/results.html",
+				"/Users/raliclo/quick/uberget/datas.sorted",
+				"/Users/raliclo/quick/uberget/ans3",
+				"/Users/raliclo/quick/uberget/datas",
+				"/Users/raliclo/quick/uberget/htmls",
+				"/Users/raliclo/quick/uberget/untitled.txt",
+				"/Users/raliclo/quick/ans",
+				"/Users/raliclo/quick/ans.sorted",
+				"/Users/raliclo/quick/uberget/hacker_links",
+				"/Users/raliclo/quick/uberget/reqs",
+				"/Users/raliclo/quick/key.json",
+				"/Users/raliclo/WebstormProjects/untitled/sample.js",
+				"/Users/raliclo/WebstormProjects/untitled/test.js",
+				"/Users/raliclo/WebstormProjects/untitled/Temp.txt",
+				"/Users/raliclo/tt/llks/overall.log",
+				"/Users/raliclo/cmiot",
+				"/Users/raliclo/g/.bash_profile",
+				"/Users/raliclo/tt/llks/link1",
+				"/Users/raliclo/tt/llks/links1",
+				"/Users/raliclo/work/apks/NinjaDroid/use-case.py"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"nasm",
+					"asm",
+					"nasm",
+					"j2objc",
+					"onion",
+					"'",
+					"java",
+					"avd",
+					"cline",
+					"stat",
+					"status",
+					"binutils",
+					"spark_home",
+					"coreutils",
+					"JAVA_HOME",
+					"cmake",
+					"openblas",
+					"maven",
+					"\"$HADOOP_VER\"",
+					"cellar",
+					"Cellar",
+					"gmp",
+					"ps1",
+					"branch",
+					"git",
+					"TERM",
+					"ls",
+					"alias ls",
+					"ls",
+					"zip",
+					"\"",
+					"- ",
+					"x86",
+					"yes",
+					"with-cpu_64",
+					"--with-arch_64",
+					"python",
+					"'",
+					"\\n \\n ",
+					"\\n \\n \\n Secret Phrase:\\n \\n ",
+					"\n",
+					"Secret Phrase:\\n \\n ",
+					"\\n \\n \n\\n \\n \\n ",
+					"\\n \\n ",
+					"Secret Phrase: ",
+					"', '",
+					"chrome-cli open ",
+					"cm open ",
+					"cmiot",
+					"read option\n    ",
+					"cmo",
+					"cho",
+					"cm",
+					"3.9",
+					"option",
+					"tensorflow",
+					"https://translate.google.com/",
+					"cm",
+					"llvm",
+					"curl",
+					"brew"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 235.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 914.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/raliclo/work/gnu/gnu_mirror/c2c/public/video.html",
+					"settings":
+					{
+						"buffer_size": 343,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 247.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 503.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/raliclo/work/gnu/gnu_mirror/c2c/package.json",
+				"/Users/raliclo/work/gnu/gnu_mirror/c2c/public/vidoe.html",
+				"/Users/raliclo/work/Parallel-IR/CMakeLists.txt",
+				"/Users/raliclo/work/gnu/gnu_mirror/mirror_gnu",
+				"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/j2objc.rb",
+				"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/.bash_profile",
+				"/Users/raliclo/work/gnu/gnu_mirror/restricted_projects",
+				"/Users/raliclo/.bash_profile",
+				"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/zzz.rb",
+				"/Users/raliclo/work/gnu/gnu_mirror/projects",
+				"/Library/Preferences/SystemConfiguration/com.apple.Boot.plist",
+				"/Users/raliclo/g/LICENSE.txt",
+				"/Users/raliclo/gradle.rb",
+				"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gradle.rb",
+				"/Users/raliclo/work/gradle/gradle/java9.gradle",
+				"/Users/raliclo/work/gradle/Users/raliclo/work/gradle/gradle/java9.gradle",
+				"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/binutils.rb",
+				"/Users/raliclo/work/gradle/gradle/wrapper/gradle-wrapper.properties",
+				"/Users/raliclo/work/gradle/buildSrc/build.gradle",
+				"/usr/local/bin/gradle",
+				"/Users/raliclo/hacker/Hacker_capture_the_flag/Hacker_capture_the_flag/indeed/transall",
+				"/Users/raliclo/hacker/Hacker_capture_the_flag/Hacker_capture_the_flag/indeed/sum.app",
+				"/Users/raliclo/contest/tdocs/tdocs.js",
+				"/Users/raliclo/tt/llks/bakup/transall",
+				"/Users/raliclo/contest/tdocs/tdoc.js",
+				"/Users/raliclo/.bash_profile_lion",
+				"/Users/raliclo/work/gcc-7-branch/build/config.gccmake",
+				"/Users/raliclo/j2objc",
+				"/Users/raliclo/work/j2objc/brew_dist/j2objc-dist/license/INSTALL",
+				"/Users/raliclo/work/gcc-7-branch/build/.bash_profile",
+				"/Users/.bash_profile",
+				"/Users/raliclo/work/Parallel-IR/build/config.parIR",
+				"/Users/raliclo/work/gcc-7-branch/build/config.make2",
+				"/Users/raliclo/work/gcc-7-branch/config.make2",
+				"/Users/raliclo/tt/ook/overall.log_2017-03-26-04hr-47min",
+				"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gcc@7.rb",
+				"/Users/raliclo/work/gcc-7-branch/build/config.make",
+				"/Users/raliclo/work/gcc-7-branch/build/config",
+				"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gcc.rb",
+				"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/gcc@6.rb",
+				"/Users/raliclo/work/Parallel-IR/.travis.yml",
+				"/Users/raliclo/work/Parallel-IR/build/CMakeCache.txt",
+				"/Users/raliclo/.bashrc",
+				"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/Formula/j2objc.rb",
+				"/Users/raliclo/j2objc.rb",
+				"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/j2objc",
+				"/Users/raliclo/j2objc.zip",
+				"/Users/raliclo/quick/uberget/datass.final",
+				"/Users/raliclo/quick/uberget/ans3.sorted",
+				"/Users/raliclo/quick/uberget/datass",
+				"/Users/raliclo/quick/uberget/data",
+				"/Users/raliclo/quick/uberget/results.html",
+				"/Users/raliclo/quick/uberget/datas.sorted",
+				"/Users/raliclo/quick/uberget/ans3",
+				"/Users/raliclo/quick/uberget/datas",
+				"/Users/raliclo/quick/uberget/htmls",
+				"/Users/raliclo/quick/uberget/untitled.txt",
+				"/Users/raliclo/quick/ans",
+				"/Users/raliclo/quick/ans.sorted",
+				"/Users/raliclo/quick/uberget/hacker_links",
+				"/Users/raliclo/quick/uberget/reqs",
+				"/Users/raliclo/quick/key.json",
+				"/Users/raliclo/WebstormProjects/untitled/sample.js",
+				"/Users/raliclo/WebstormProjects/untitled/test.js",
+				"/Users/raliclo/WebstormProjects/untitled/Temp.txt",
+				"/Users/raliclo/tt/llks/overall.log",
+				"/Users/raliclo/cmiot",
+				"/Users/raliclo/g/.bash_profile",
+				"/Users/raliclo/tt/llks/link1",
+				"/Users/raliclo/tt/llks/links1",
+				"/Users/raliclo/work/apks/NinjaDroid/use-case.py"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"nasm",
+					"asm",
+					"nasm",
+					"j2objc",
+					"onion",
+					"'",
+					"java",
+					"avd",
+					"cline",
+					"stat",
+					"status",
+					"binutils",
+					"spark_home",
+					"coreutils",
+					"JAVA_HOME",
+					"cmake",
+					"openblas",
+					"maven",
+					"\"$HADOOP_VER\"",
+					"cellar",
+					"Cellar",
+					"gmp",
+					"ps1",
+					"branch",
+					"git",
+					"TERM",
+					"ls",
+					"alias ls",
+					"ls",
+					"zip",
+					"\"",
+					"- ",
+					"x86",
+					"yes",
+					"with-cpu_64",
+					"--with-arch_64",
+					"python",
+					"'",
+					"\\n \\n ",
+					"\\n \\n \\n Secret Phrase:\\n \\n ",
+					"\n",
+					"Secret Phrase:\\n \\n ",
+					"\\n \\n \n\\n \\n \\n ",
+					"\\n \\n ",
+					"Secret Phrase: ",
+					"', '",
+					"chrome-cli open ",
+					"cm open ",
+					"cmiot",
+					"read option\n    ",
+					"cmo",
+					"cho",
+					"cm",
+					"3.9",
+					"option",
+					"tensorflow",
+					"https://translate.google.com/",
+					"cm",
+					"llvm",
+					"curl",
+					"brew"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/raliclo/work/gnu/gnu_mirror/c2c/public/video.html",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 343,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										333,
+										333
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 183 89 914 581 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 235.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 188,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
