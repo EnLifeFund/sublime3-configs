@@ -1,6 +1,6 @@
 # sublime-config
 
-## I. Language lists this config may support
+## I. Language lists this config support
   x: https://github.com/ralic/macOS-sublime-config/tree/master/Cache
 ## II. This-config has been tested on macOS Sierra.
  
