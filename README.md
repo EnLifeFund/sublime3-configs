@@ -1,9 +1,9 @@
 # sublime-config
 
 ## I. Language lists this config may support
-  https://github.com/ralic/macOS-sublime-config/tree/master/Cache
-## II. This-config has been tested on macOS only as of now.
-
+  x: https://github.com/ralic/macOS-sublime-config/tree/master/Cache
+## II. This-config has been tested on macOS Sierra.
+ 
 ## III. Installation :
   1. Download sublime text3 from the official site for your macOS:  
   Site : https://www.sublimetext.com/3
