@@ -1,6 +1,6 @@
 # sublime-config
 
-## Supporting MacOS only as of now.
+## Supporting macOS only as of now.
 
 1. Download sublime text3 from the official site for your macOS:  
 Site : https://www.sublimetext.com/3
