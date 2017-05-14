@@ -1,0 +1,5 @@
+#!/bin/bash
+function installpkg() {
+	yes | cp -rf . /Users/$(id -u -n)/Library/Application\ Support/Sublime\ Text\ 3
+}
+installpkg

@@ -11,8 +11,6 @@
 
   2. Copy everything into your macOS with your Username
 
-```
-#!bin/bash
-Username=raliclo
-yes | cp -rf /Users/$Username/Library/Application Support/Sublime Text 3
+```bash
+./install
 ```
